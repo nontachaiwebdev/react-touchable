@@ -1,0 +1,26 @@
+.Box{
+  display: inline-block;
+  .images{
+    background: #bdc3c7;
+  }
+  .name{
+    font-size: 0.5em;
+    letter-spacing: 1px;
+    color:#7b7b7b;
+  }
+  .review{
+    i{
+      color:#61b5db;
+      font-size: 0.5em;
+      margin: 0 1px;
+      display:inline-block;
+    }
+    .review_count{
+      display: inline-block;
+      font-size: 0.5em;
+      margin-left: 2px;
+      color:#a0a0a0;
+      letter-spacing: 1px;
+    }
+  }
+}

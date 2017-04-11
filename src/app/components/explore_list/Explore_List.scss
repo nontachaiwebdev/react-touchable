@@ -1,0 +1,50 @@
+.Explore_List_Top_Section{
+    padding-bottom:40px !important;
+    overflow: hidden;
+    .Section_Name{
+        display: inline-block;
+        float:left;
+        font-size: 1em;
+        padding: 0;
+        margin: 0;
+        letter-spacing: 1px;
+        color: #616161;
+    }
+
+    .Seemore_Button{
+        display: inline-block;
+        float: right;
+        font-size: 0.7em;
+        padding: 0;
+        margin: 0;
+        line-height: 1.8em;
+        letter-spacing: 1px;
+        color:#a0a0a0;
+    }
+}
+.List_Style{
+    padding-bottom:50px !important;
+    .Main_Container{
+        width: 100%;
+        height:auto;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+    .Box_Container{
+        display: block;
+        width: 2000px;
+        overflow-x: hidden;
+        -webkit-transition: 0.2s;
+        -moz-transition: 0.2s;
+        -o-transition: 0.2s;
+        transition: 0.2s;
+        -ms-touch-action: manipulation !important; 
+        touch-action: manipulation !important;
+    }
+    .animation{
+        -webkit-transition: 0.5s;
+        -moz-transition: 0.5s;
+        -o-transition: 0.5s;
+        transition: 0.5s;
+    }
+}

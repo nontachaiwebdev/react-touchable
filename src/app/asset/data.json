@@ -1,0 +1,230 @@
+[
+    {
+        "id" : "0",
+        "name" : "Attractions",
+        "items" : [
+            {
+                "id" : 0,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 3,
+                "reviews" : 598,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 1,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 4,
+                "reviews" : 789,
+                "image_url" : "https://static.pexels.com/photos/4821/italian-landmark-italy-architecture.jpeg"
+            },
+            {
+                "id" : 2,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 5,
+                "reviews" : 231,
+                "image_url" : "https://static.pexels.com/photos/358685/pexels-photo-358685.jpeg"
+            },
+            {
+                "id" : 3,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 3,
+                "reviews" : 837,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 4,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 4,
+                "reviews" : 543,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 5,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 4,
+                "reviews" : 298,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 6,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 5,
+                "reviews" : 598,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 7,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 3,
+                "reviews" : 836,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 8,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 2,
+                "reviews" : 146,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 9,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 1,
+                "reviews" : 930,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            }
+        ]
+    },
+     {
+        "id" : "1",
+        "name" : "Restaurants",
+        "items" : [
+            {
+                "id" : 0,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 3,
+                "reviews" : 598,
+                "image_url" : "https://static.pexels.com/photos/210474/pexels-photo-210474.jpeg"
+            },
+            {
+                "id" : 1,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 4,
+                "reviews" : 789,
+                "image_url" : "https://static.pexels.com/photos/24167/pexels-photo.jpg"
+            },
+            {
+                "id" : 2,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 5,
+                "reviews" : 231,
+                "image_url" : "https://static.pexels.com/photos/31408/pexels-photo-31408.jpg"
+            },
+            {
+                "id" : 3,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 3,
+                "reviews" : 837,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 4,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 4,
+                "reviews" : 543,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 5,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 4,
+                "reviews" : 298,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 6,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 5,
+                "reviews" : 598,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 7,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 3,
+                "reviews" : 836,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 8,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 2,
+                "reviews" : 146,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 9,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 1,
+                "reviews" : 930,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            }
+        ]
+    },
+     {
+        "id" : "2",
+        "name" : "Hotels",
+        "items" : [
+            {
+                "id" : 0,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 3,
+                "reviews" : 598,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 1,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 4,
+                "reviews" : 789,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 2,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 5,
+                "reviews" : 231,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 3,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 3,
+                "reviews" : 837,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 4,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 4,
+                "reviews" : 543,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 5,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 4,
+                "reviews" : 298,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 6,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 5,
+                "reviews" : 598,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 7,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 3,
+                "reviews" : 836,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 8,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 2,
+                "reviews" : 146,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            },
+            {
+                "id" : 9,
+                "name" : "Lorem ipsum dolor sit amet, consectetur.",
+                "star" : 1,
+                "reviews" : 930,
+                "image_url" : "https://static.pexels.com/photos/70258/pexels-photo-70258.jpeg"
+            }
+        ]
+    }
+]

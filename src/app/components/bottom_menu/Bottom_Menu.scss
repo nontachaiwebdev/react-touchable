@@ -1,0 +1,23 @@
+.Bottom_Menu{
+    width: 100%;
+    background: #fff;
+    position: fixed;
+    bottom: 0;
+    border-top:solid 1px #c5c5c5;
+    .Menu_Item{
+        display: inline-block;
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 10px 0;
+        img{
+            width: 30%;
+        }
+        p{
+            padding: 0;
+            margin-bottom:0;
+            font-size: 0.6em;
+            letter-spacing: 1px;
+        }
+    }
+}
